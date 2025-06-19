@@ -1,11 +1,8 @@
+# Hey,Vanako! I'm Harish Annavisamy👋
 
 ---
 
 ```
-
-
-
-# Hey,Vanako! I'm Harish Annavisamy👋
 
 -NIT Trichy:]
 - 🪟 DWM + ST + Zsh setup
