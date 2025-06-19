@@ -1,5 +1,5 @@
-# Vanako! I'm Harish Annavisamy👋 > “Simplicity is the ultimate sophistication.”
-
+# Vanako! I'm Harish Annavisamy👋
+> “Simplicity is the ultimate sophistication.”
 ---
 ```
 -NIT Trichy:]
