@@ -4,8 +4,8 @@
 - 🪟 DWM + ST + Zsh setup
 - ✂️ Motion design in After Effects
 - 🎨 Love Linux ricing and minimal dotfiles
-- ⚙️ Automating workflows and scripting for fun
-- 🕹️ Lua scripter and LOVE2D 2D game dev enthusiast
+- ⚙️ Trying to become=> ~#!/bin/bash~
+- 🕹️ Lua scripting && 8bit(ftw)LOVE2D >_< 
 
 ---
 
