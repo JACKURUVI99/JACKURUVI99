@@ -1,6 +1,6 @@
-# Hey, I'm Harish 👋
+# Hey,Vanako! I'm Harish Annavisamy👋
 
-- 🐧 Arch Linux(btw && ftw):]
+-NIT Trichy:]
 - 🪟 DWM + ST + Zsh setup
 - ✂️ Motion design in After Effects
 - 🎨 Love Linux ricing and minimal dotfiles
