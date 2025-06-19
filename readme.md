@@ -1,4 +1,4 @@
-# Vanako! I'm Harish Annavisamy👋
+# heey! I'm Harish Annavisamy👋
 > “Simplicity is the ultimate sophistication.”
 ---
 ```
