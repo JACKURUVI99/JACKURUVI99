@@ -1,6 +1,6 @@
 # Hey, I'm Harish 👋
 
-- 🐧 Arch Linux user (btw)
+- 🐧 Arch Linux(btw && ftw):]
 - 🪟 DWM + ST + Zsh setup
 - ✂️ Motion design in After Effects
 - 🎨 Love Linux ricing and minimal dotfiles
@@ -26,11 +26,11 @@ Terminal: ST (ligatures, transparency)
 Shell: Zsh + Starship
 Editor: Neovim + LSP + Lua
 Font: Minecraft Regular
-Theme: Tokyo Night / Gruvbox
+Theme: Toothukudi-Night
 Icons: Papirus / Custom
 DE: None (rice > DE)
-Laptop: Acer Nitro (16GB RAM)
-Other: After Effects (Win), ffmpeg, yt-dlp
+Laptop: Acer Nitro (32GB RAM)
+Other: After Effects (Win).:]
 Game Dev: LOVE2D, Lua scripting
 
 "btw I use Arch." 🐧
