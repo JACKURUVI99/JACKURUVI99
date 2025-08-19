@@ -8,7 +8,7 @@
 - ⚙️ Trying to become=> ~#!/bin/bash~
 - 🕹️ Lua scripting && 8bit(ftw)LOVE2D >_< 
 ---
-      /\           Harish@GitHub
+      /\           Harish@ArchHost
      /  \         ───────────────
     /\   \        OS: Arch Linux x86_64
    /      \       WM: DWM (patched)
