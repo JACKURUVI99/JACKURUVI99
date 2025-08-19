@@ -2,7 +2,7 @@
 ---
 ```
 -NIT Trichy:]
-- 🪟 DWM + ST + Zsh setup
+- 🪟 DWM + ST + Zsh
 - ✂️ Motion design in After Effects
 - 🎨 Love Linux ricing and minimal dotfiles
 - ⚙️ Trying to become=> ~#!/bin/bash~
