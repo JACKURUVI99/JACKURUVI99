@@ -1,5 +1,4 @@
 # heey! I'm Harish Annavisamy👋
-> “Simplicity is the ultimate sophistication.”
 ---
 ```
 -NIT Trichy:]
