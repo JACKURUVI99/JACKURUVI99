@@ -1,4 +1,4 @@
-# heey! I'm Harish Annavisamy👋
+# Hey! I'm Harish Annavisamy👋
 ---
 ```
 -NIT Trichy:]
