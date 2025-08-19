@@ -23,8 +23,6 @@
                   Laptop: Acer Nitro (32GB RAM)
                   Other: After Effects (Win).:]
                   Game Dev: LOVE2D, Lua scripting
-
-"btw I use Arch." 🐧
 ```
 **yeh and i love sleeping sooowww goooodd nightwwww\..zzz 💤💤💤**
 ---
