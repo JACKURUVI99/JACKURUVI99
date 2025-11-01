@@ -1,7 +1,6 @@
 # Hey! I'm Harish...👋
 ---
 ```
--NIT Trichy:]
 - 🪟 DWM + ST + Zsh
 - ✂️ Motion design in After Effects
 - 🎨 Love Linux ricing and minimal dotfiles
@@ -19,7 +18,6 @@
                   Theme: Toothukudi-Night
                   Icons: Papirus / Custom
                   DE: None (rice > DE)
-                  Laptop: Acer Nitro (32GB RAM)
                   Other: After Effects (Win).:]
                   Game Dev: LOVE2D, Lua scripting
 ```
