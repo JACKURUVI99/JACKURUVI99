@@ -4,7 +4,7 @@
 - 🪟 DWM + ST + Zsh
 - ✂️ Motion design in After Effects
 - 🎨 Love Linux ricing and minimal dotfiles
-- ⚙️ Trying to become=> ~#!/bin/bash~
+- Linux >>> Windows 💯
 - 🕹️ Lua scripting && 8bit(ftw)LOVE2D >_< 
 ---
       /\           Harish@ArchHost
