@@ -1,11 +1,6 @@
 # Hey! I'm Harish...👋
 ---
 ```
-- 🪟 DWM + ST + Zsh
-- ✂️ Motion design in After Effects
-- 🎨 Love Linux ricing and minimal dotfiles
-- Linux >>> Windows 💯
-- 🕹️ Lua scripting && 8bit(ftw)LOVE2D >_< 
 ---
       /\           Harish@ArchHost
      /  \         ───────────────
