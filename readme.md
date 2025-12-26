@@ -16,6 +16,4 @@
                   Other: After Effects (Win).:]
                   Game Dev: LOVE2D, Lua scripting
 ```
-**yeh and i love sleeping sooowww goooodd nightwwww\..zzz 💤💤💤**
----
 
