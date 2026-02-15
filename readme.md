@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harish Annavisamy</h1>
-<h3 align="center">Your Average Indian Tech student next door..</h3>
+<h3 align="center">Your Average  Tech student next door..</h3>
 
 - 🌱 I’m currently learning **DSA :_]**
 
