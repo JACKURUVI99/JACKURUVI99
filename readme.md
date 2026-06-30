@@ -5,7 +5,7 @@
 
 <p align="left">
   <a href="https://jackuruvi99.github.io/Portfolio-site-/" target="_blank">
-    🚀 Visit My Portfolio
+    Click Here!
   </a>
 </p>
 <h3 align="left">Connect with me:</h3>
